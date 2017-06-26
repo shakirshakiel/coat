@@ -1,0 +1,59 @@
+Part1 - Tamil New Year
+Chapter 1 - I have a dream
+
+It was Tamil New Year’s day. And a new beginning for Deva. His dream had been to join Denker. He had heard so much about the company in social media. All surveys including Forbes 500 lauded that Denker is the company to work with. In a world of filter-bubbles and misinformation, the online news, surveys and social media only affected Deva passively. He had done his research through friends of friends & meet ups. Denker was where he wanted to be. Many ideologies that he liked:
+
+* Flat hierarchy. Wow
+* The company works on bleeding edge technologies. Wow wow.
+* Decent salary. Yeah. We don’t work for high pay. Do we ? We only work for passion.
+
+Do we ?
+
+Today Deva’s dream had come true. First day at Denker and he was not able to control his smile. What a wonderful life. He was waiting at the SysAdmin table to get his new laptop. Sitting there he thought how tiresome the interview process was. Lots of rounds and lots of people to impress. And in the last round, the interviewer had asked him to design a room with a light bulb. 
+
+Interviewer: This is a FP solution. Can you give us more OO based solutions ?
+Deva: But I am a Scala enthusiast. I can walk you through my solution and explain how FP is better than OO here.
+Interviewer: Impressive. Please go ahead.
+
+After 5 mins of explanation.
+
+Interviewer: Good. Good. Can you also give us an OO solution ?
+
+Deva has gone through many rounds. And he had met nice people too. So he did not want to jump to conclusions about the general ‘i-dont-want-to-listen-to-you’ attitude prevailing in the interviews. They say interviews gives a sneak peak into company's culture. Does that mean this is the general attitude in the company ?
+
+A new MAC book pro was placed before him breaking his flashback. 
+
+SysAdmin: Here you go. Your new MAC book pro. Retina display. 16 GB RAM. 2.7 GHz i7. 8 core. Latest MacOS.
+Deva: But I want a Dell laptop with Ubuntu.
+SysAdmin: What ? Dell ah. No one uses Dell here. And moreover we have support only for Mac. So if you take Dell and if anything goes wrong, you will have to pay.
+Deva: What about using open source software ? Social responsibility.
+
+And he heard a voice. “I would suggest you to take a MAC. 99% of Denker uses it. Even analysts use Mac. Most of the clients & their developers also use Mac. You will have less hassles with Mac”
+
+Deva: Hi. I was just telling SysAdmin about what our company stands for. About open source.
+
+“Yeaaah. I heard that. I was also given the same boilerplate answer. The first time I heard it I was like 'Do people even buy that answer ?' I was under the impression that I was difficult to convince. Now I am happy to see another person like me”
+
+Deva: Hi. My name is Deva.
+
+“My name is Thirumalai. You can call me Thiru. I also joined last week. Did you see this mail ? All hands in 5 minutes. Heard this is serious”
+
+Deva: I don’t know. I am getting my laptop just now.
+Thiru: Yeah. A laptop that you dont like.
+Deva: I thought this was an employee driven company. I am not even able to decide what laptop I should use. And ..
+Thiru: Hold it right there. We dont want to get into a controversy in the beginning stages itself. Right ?
+Deva: But..
+
+And suddenly there was a voice. “All hands. All hands”. Deva turned and saw HR. “Hi Shankar”
+Shankar: Deva. Welcome. Today is your first day right. I don’t know whether it makes sense for you to join this meeting. Neverthless you can join if you want
+Deva: I will join. I have nothing else to do.
+Thiru: What about me ?
+Shankar: Same for you
+
+And Shankar left broadcasting the time for all-hands. Deva and Thirumalai joined the meeting. It was all crowded. The General Manager Ganesan was standing in the middle looking very upset. Suddenly,
+
+“We have to close a project.." 
+(murmur in the crowd)
+"..because we were no longer adding any value to the client. Yes its a loss. But a loss that we can take”
+
+Deva was new to all this transparent talk. He had forgotten about the initial annoyances. Now he felt he had come to the right place. Many people get what they need. Some people get what they want. Very few have the luxury to get what they dream.

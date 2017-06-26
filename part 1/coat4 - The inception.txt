@@ -1,0 +1,132 @@
+Characters:
+
+Deva is a newbie in Denker who values its philosophies and joined the company because of it.
+Thiru is also a newbie but a go-easy person.
+Kumar is a tenured Denker who would not take any risks in life and takes everything for granted. 
+Ganesan is the General Manager of Denker. He is a patient, calm and composed person. 
+Siddharth is a tenured Denker. He has been in the company since it started and is highly opinionated.
+Shankar is the HR.
+
+Chapter 4 - The Inception
+
+(Click here to understand the characters)
+
+"How was the day ?"
+"Not the best. And not the worst either". Deva replied to his mom.
+"Why ? What happened ?"
+"Nothing. But it does not feel as bad as my previous company"
+"Everything shall be great. From this new year everything will turn to be in your favour"
+"I hope so"
+
+After washing his legs and changing his clothes, Deva sat on the dining table and silently had the delicious food prepared by his mom. "Who is Arulmozhi ?" His thoughts slowly drifted back to the day.
+
+Siddharth laughed. "Arulmozhi to be the tech lead for the new data science project ? You must be joking Ganesan"
+Ganesan: I am not joking. We dont have any other person available to lead the project.
+Sid: You know what they say about him.
+Kumar: Yeah.
+Ganesan: I know what they say about him.
+Kumar laughed. "They say he is an accidental tech lead"
+Ganesan: I dont see what is so funny about it.
+Sid: He always gets the best of the projects but by accident.
+Ganesan: But I have heard good feedback about him.
+Sid: What an unfair world. People always get what they dont deserve.
+Ganesan: Sid. You should stop complaining about everyone.
+Sid: Come on. You only said that Arul was chosen because there were no one else. If he was chosen amongst at-least two, I would not have said this.
+Ganesan: Sid. Have you heard of belief bias ?
+Sid: Ganesan. Have you heard of Ostrich effect ?
+
+There was an awkward silence...
+
+"What are you thinking ?" Deva's mom broke into his reverie.
+Deva: Nothing.
+Mom: You have been having that ball of rice in your hand for the last 5 minutes.
+Deva: No mom.
+Mom: Yes son. A slow eater is considered by the society to be lazy.
+Deva: I think a slow eater is a thinker always engrossed in deep thoughts.
+Mom: He does not have enough time to complete his tasks.
+Deva: Well there is always a tomorrow mom.
+Mom: Which means if you get married, you do not have enough time to entertain your wife.
+Deva: Yuck. Mom. Court adjourned. I am going to bed.
+Mom: Haha. Okay. I am not talking. Just finish your food and go.
+
+Deva lied on bed and closed his eyes. The squeaking sound of the fan was so relaxing. Its funny how brain latches on to the white noise and gets entrapped in it. No sound of birds. No sound of wind. No sound of trees whispering. Only the sound of the dream.
+
+"Do you have any suggestions ?" Kumar interrupted the silence. Ganesan looked at Siddharth.
+Siddharth: Lets see how this goes. Only time will tell whether Ganesan is right.
+Deva: Has the project already started ?
+Ganesan: The inception will start in two weeks.
+Deva: Is the team finalized ?
+Ganesan: Kind of. But we are still looking for a Business Analyst.
+Deva: Can I join the project ?
+Ganesan: Deva. I think it depends on the outcomes of the inception. But anyways have a word with Ani.
+Deva: Who is that ?
+Ganesan: Ani is our RM.
+Deva: Thanks Ganesan. I will talk to him.
+Ganesan: Now if you will excuse me, I have a meeting to attend.
+Sid: The "Leadership Team" catchup right. Excuse me guys I also have to join him.
+
+Shankar, the HR introduced Deva to all the teams one by one. He was given a session about the guidelines to follow and inner workings of Denker. He was shown the TT table, fooseball table and the snacks area. He was also told that there was a food court in the building. He also learnt that Ani was on leave and he will come back the next day. Deva felt like that this was the longest day ever. After completing all the formalities he started to pack his bag. He kept his mac inside.
+
+Thiru: I see you have taken the mac.
+Deva: Yeah. Shankar told me we can bring this up with our senior who will guide us. He used some jargon.
+Thiru: Mentor.
+Deva: Yeah. Mentor. Did you get one ?
+Thiru: Nope. Not yet.
+Deva: Okay. Aren't you leaving ?
+Thiru: Yeah. Guess I ll also join you.
+Deva: Good. I havent got an access card yet. I need a person to go out.
+Thiru: Yeah. I also had to do this on the first day.
+Deva: I hope the admin team can open the door for me tomorrow.
+Thiru: No worries. Just take my number. I ll help you get in tomorrow.
+
+Deva and Thiru went to the parking lot to take their respective bikes. Kumar was already there trying to start his vehicle.
+
+Deva: Any issue Kumar ? Can we help ?
+Kumar: No problem guys. This happens every now and then. So are you joining the data science project ?
+Deva: No. Ani is on leave. I ll meet him tomorrow.
+Thiru: For me, anything is fine.
+Kumar: I guess I ll be joining the project.
+Deva: Oh cool.
+Kumar: It ll be fun if you guys also join. I have heard Arul is a nice guy to work with.
+Deva: Lets see.
+Kumar: And guess what. Nandy might also join.
+
+Deva laughed. "Oh Nandy. Its time to listen to some Kannadasan songs". And started to sing "If everything one wishes comes true, then there is no God. If one keeps thinking what he had wished, then there is no peace"
+
+Kumar and Thiru screamed "Stop"
+
+Thiru: Please stop. I will probably listen to you talk for hours. But please dont sing.
+
+Deva laughed again.
+
+Thiru: But this proves something.
+Deva: What ?
+Thiru: Time travel will not be invented till I die.
+Deva: But what if you are living in the fixed version of your timeline ?
+Thiru: Oh my friend. This timeline of mine definitely looks messed up.
+Kumar: I cannot understand a word what you are speaking. Its time for me to leave.
+Deva: We can give you some company till you fix your bike.
+Kumar: Thanks guys.
+Deva: What a long day Thiru. Isnt it ? Aditya, Nandy, Arulmozhi, Siddharth, Ganesan. All interesting characters.
+Kumar: I have seen them all except Arul. I am just waiting to work with him.
+Deva: How is that guy ?
+Kumar: He is a tenured Denker. But he does not have enough experience to be a tech lead. But they say he is technically skilled. He listens to everyone. But ultimately does what he wants to do. Like Aditya, he also has a strong opinion against fixed timings for standups. The management allowed all these because he has been handling smaller projects and all his projects were going smooth and succesful. But he is going to be in spotlight if he becomes the tech lead of this data science project.
+
+A caller tune broke the conversation. Thiru took his phone and said "It is my home calling. Got to go"
+
+Kumar: And I am almost done.
+
+And then his bike started.
+
+Deva: Guess I ll also leave then. See you guys tomorrow.
+
+Deva put his hand in his pockets and found that his keys were not there. He should have left it in his desk. Just then Thiru had left. Kumar was still there trying to kick start his Royal enfield. His bike had stopped for some reason.
+
+Deva: Thank god. You had an old bike.
+Kumar: Why ? What happened ?
+Deva: I think I left my bike keys in my desk. I did not get my access card yet. Can I borrow yours ?
+Kumar: Yeah sure. This bike is also giving me some serious trouble today.
+
+Deva left with Kumar's access card. When Deva entered the office, it was empty. But he could hear a voice coming from a meeting room. Since the air conditioners were off, he could hear the voice clearly. It was Siddharth.
+
+"We need to decide now. Who is going to be the new GM ?"
