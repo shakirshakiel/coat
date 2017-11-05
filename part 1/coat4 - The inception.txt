@@ -1,14 +1,3 @@
-Characters:
-
-Deva is a newbie in Denker who values its philosophies and joined the company because of it.
-Thiru is also a newbie but a go-easy person.
-Kumar is a tenured Denker who would not take any risks in life and takes everything for granted. 
-Ganesan is the General Manager of Denker. He is a patient, calm and composed person. 
-Siddharth is a tenured Denker. He has been in the company since it started and is highly opinionated.
-Shankar is the HR.
-
-Chapter 4 - The Inception
-
 (Click here to understand the characters)
 
 "How was the day ?"
@@ -130,3 +119,4 @@ Kumar: Yeah sure. This bike is also giving me some serious trouble today.
 Deva left with Kumar's access card. When Deva entered the office, it was empty. But he could hear a voice coming from a meeting room. Since the air conditioners were off, he could hear the voice clearly. It was Siddharth.
 
 "We need to decide now. Who is going to be the new GM ?"
+
