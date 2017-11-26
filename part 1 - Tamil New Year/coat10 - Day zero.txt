@@ -1,2 +1,83 @@
-Ani assembles the team
-Arul is not present
+From: siddharth.ab@denker.com
+To: thirumalai.a@denker.com, deva.vv@denker.com
+Subject: Mentees catchup
+
+Hi Thiru / Deva,
+
+We have already met over lunch. So no need for any introductions.
+
+Shankar should have conveyed by now that I will be your mentor. We can have a monthly catchup to discuss about your goals, your career path, any issues and concerns. I have sent you an individual meeting invite. Please RSVP.
+
+And @Deva, I have already recommeneded you for the data science project as you were intereseted. Ani should be in office today. So talk to him if you are interested. Good luck.
+
+Thanks
+Siddharth 
+
+Deva read the email and he was mildy impressed from the tone of the mail. This was not the same tone that he had used during the tenureds call.
+
+"Are you Deva ?" broke a voice from behind.
+
+Someone speaking from behind you breaking your thoughts is the most common thing in the IT industry. Better ways to solve it would be to lighten the brightness of the screen. So you can atleast take a look at the reflection if someone is standing behind you. Or if you are concerned about people watching your screen from behind, you can buy a privacy filter for screen. Deva had done the former. So he was not taken aback. Latter option only for paranoid people.
+
+"Yes" answered Deva without immediately looking back.
+
+Deva closed the mailbox. It said 0 unread mails. 
+
+And then he turned "How can I help you ?"
+"I am Anirudh, the RM of Denker Chennai"
+"Oh. Ani. Hi. Nice to meet you"
+"Nice to meet you too"
+"Sid said you might be interested in the new data science project"
+"Yeah. But Ganesan said it is completely based on the outcomes of inception"
+"Yeah. That is true. But we already planning to have 6 people in the project"
+"I am definitely interested. What if after the inception, someone figured out that 6 people are not required for the project"
+"Believe me. That won't happen"
+"Okay"
+"So are you in ?"
+"Yes. Definitely yes"
+
+Mithra was walking with a coffee cup in her hand close to them.
+
+Ani: "Hey Mithra. A moment please"
+Mithra: "Hey Ani"
+Ani: "Kaveri said you are interested in the data science project"
+Mithra: "Yes"
+Ani: "We are going to start the inception next week. Are you interested ?"
+Mithra: "Who is going to the inception ?"
+Ani: "Arul and Nandhini"
+Mithra: "So Arul is our tech lead"
+Ani: "Yes"
+
+Deva asked "Who are the others joining the project ?"
+Ani: You, Mithra, Arul, Nandhini. Another new guy
+Deva: Thiru ?
+Ani: Yeah. Thiru. Ram. And Kumar.
+Deva: You said we will be 6. But we are 8 already.
+Ani: I meant 6 developers. 1 BA. 1 QA.
+Deva: Okay. Makes sense.
+Ani: I have asked Arul to talk to you all today. I guess he has gone out for today. Catch him and have a chat about the project.
+
+-------
+
+Nine years ago...
+
+Tamil New years day...
+
+It was raining heavily. It was highly unusual to rain this heavy in the summer season.
+
+Two people were having a serious conversation heavily drenched in rain.
+
+Nandhini was on her knees crying. Aditya was standing beside her.
+
+Nandhini: I beg you Adi. I beg you please. 
+"Some mistakes can never be forgiven Nan" shouted Aditya. 
+Nandhini: We never forgive. We never forget. I wrote this.
+Aditya: Then you better remember "We never negotiate. Because we never exist. Remember"
+Nandhini: Adi. This is about my dad. He will die if you publish this.
+Aditya: Black tulips is just not you and me Nan. 
+Nandhini: You can make it stop Adi. You have to make it stop for me, for our love.
+Aditya: Like father like daughter. No use talking to you.
+
+Aditya turned and started to walk away from Nandhini.
+
+Nandhini murmured something. Aditya can only guess what she murmured. 

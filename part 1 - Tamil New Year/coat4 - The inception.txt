@@ -86,15 +86,7 @@ Thiru: Please stop. I will probably listen to you talk for hours. But please don
 
 Deva laughed again.
 
-Thiru: But this proves something.
-Deva: What ?
-Thiru: Time travel will not be invented till I die.
-Deva: But what if you are living in the fixed version of your timeline ?
-Thiru: Oh my friend. This timeline of mine definitely looks messed up.
-Kumar: I cannot understand a word what you are speaking. Its time for me to leave.
-Deva: We can give you some company till you fix your bike.
-Kumar: Thanks guys.
-Deva: What a long day Thiru. Isnt it ? Aditya, Nandy, Arulmozhi, Siddharth, Ganesan. All interesting characters.
+Deva: What a lovely day Thiru. Aditya, Nandy, Arulmozhi, Siddharth, Ganesan. All interesting characters.
 Kumar: I have seen them all except Arul. I am just waiting to work with him.
 Deva: How is that guy ?
 Kumar: He is a tenured Denker. But he does not have enough experience to be a tech lead. But they say he is technically skilled. He listens to everyone. But ultimately does what he wants to do. Like Aditya, he also has a strong opinion against fixed timings for standups. The management allowed all these because he has been handling smaller projects and all his projects were going smooth and succesful. But he is going to be in spotlight if he becomes the tech lead of this data science project.
